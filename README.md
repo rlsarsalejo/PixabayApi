@@ -1,5 +1,10 @@
 # CodeIgniter 4 Framework
-
+# To Run The App
+# first Update the composer
+`composer Update`
+# Change The Database
+Run `php spark migrate`
+Run `php spark serve`
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
